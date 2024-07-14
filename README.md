@@ -1,2 +1,0 @@
-# My-tools
-kali tools
